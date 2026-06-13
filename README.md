@@ -260,7 +260,5 @@ Through this project, I gained practical experience in:
 * RecyclerView Implementation
 * Full-Stack Mobile Application Development
 
----
-
 
 ![image](https://github.com/SuyashMathur-bit/Cabbooking/blob/e7a50e626b56742978f70306061d4e43f48c0a5e/Screenshot%202026-03-23%20004138.png)
